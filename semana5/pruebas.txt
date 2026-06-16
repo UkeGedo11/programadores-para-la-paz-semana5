@@ -1,0 +1,10 @@
+Pruebas.
+
+Ruta /:
+Muestra el mensaje "Servidor activo".
+
+Ruta /saludo:
+Muestra el mensaje "Hola comunidad".
+
+Ruta /mensaje/juan:
+Muestra el mensaje "Hola kevin" utilizando el parámetro recibido en la URL.

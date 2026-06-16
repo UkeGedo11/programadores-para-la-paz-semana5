@@ -1,0 +1,13 @@
+Reflexion.
+
+Las APIs permiten que diferentes aplicaciones y sistemas compartan informacion de manera organizada,
+rapida y eficiente. Gracias a ellas, una comunidad puede enviar reportes, alertas, solicitudes o 
+novedades desde una pagina web o aplicacion movil hacia un sistema centralizado. Esto facilita que 
+la informacion llegue a las personas encargadas de tomar decisiones o resolver problemas. Ademas, las APIs 
+ayudan a mantener los datos actualizados en tiempo real, evitando errores y la duplicacion de informacion. 
+Tambien permiten que varias plataformas trabajen juntas utilizando los mismos datos de forma segura y estructurada. 
+Por ejemplo, una alerta sobre un problema de seguridad podria ser enviada automaticamente a una aplicacion comunitaria 
+y al mismo tiempo a un panel de administracion. Esto mejora la comunicacion entre los miembros de la comunidad y las 
+autoridades responsables. Las APIs tambien pueden contribuir a una mejor organizacion de eventos, actividades y 
+servicios comunitarios. Para terminar, las APIs son una herramienta fundamental para fortalecer la comunicacion, 
+la colaboracion y el intercambio de informacion dentro de cualquier comunidad.

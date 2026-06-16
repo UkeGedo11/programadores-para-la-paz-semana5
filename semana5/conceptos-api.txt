@@ -1,0 +1,9 @@
+Conceptos breves.
+
+La ruta POST /reporte recibe información enviada por el usuario en formato JSON.
+
+Extrae el campo mensaje desde req.body y responde con un objeto JSON que confirma 
+la recepción del reporte.
+
+En una aplicación comunitaria podría utilizarse para recibir alertas, reportes 
+ciudadanos o solicitudes de ayuda.
